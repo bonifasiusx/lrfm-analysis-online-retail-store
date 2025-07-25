@@ -1,6 +1,6 @@
 # Customer Segmentation with LRFM Analysis
 
-This project performs customer segmentation using the LRFM (Length, Recency, Frequency, Monetary) with simple KMeans clustering on UK online retail dataset from 2009-2011. The goal is to gain insights into customer behavior and value to support marketing and retention strategies.
+This project performs customer segmentation using the LRFM (Length, Recency, Frequency, Monetary) with simple KMeans clustering on UK online retail dataset 	from 2009-2011. The goal is to gain insights into customer behavior and value to support marketing and retention strategies.
 
 ## Purpose
 
@@ -34,7 +34,7 @@ Our LRFM analysis and findings are also explained in detail in this Medium artic
 Clone this repository and run the Jupyter Notebook:
 
 ```bash
-git clone https://github.com/yourusername/lrfm-analysis-online-retail-store.git
+git clone https://github.com/bonifasiusx/lrfm-analysis-online-retail-store.git
 cd lrfm-analysis-online-retail-store
 jupyter notebook lrfm_analysis.ipynb
 ```
