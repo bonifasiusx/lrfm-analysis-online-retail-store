@@ -1,6 +1,6 @@
 # Customer Segmentation with LRFM Analysis
 
-This project performs customer segmentation using the LRFM (Length, Recency, Frequency, Monetary) model on the UK online retail dataset from 2009-2011. The goal is to gain insights into customer behavior and value to support marketing and retention strategies.
+This project performs customer segmentation using the LRFM (Length, Recency, Frequency, Monetary) with simple KMeans clustering on UK online retail dataset from 2009-2011. The goal is to gain insights into customer behavior and value to support marketing and retention strategies.
 
 ## Purpose
 
